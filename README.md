@@ -27,6 +27,10 @@ e.g.
 ng generate component components/header
 ```
 
+# Outside Packages
+* for icons: https://github.com/FortAwesome/angular-fontawesome 
+
+
 ### Youtube Video Link
 
 https://youtu.be/3dHNOWTI7H8
