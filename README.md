@@ -2,6 +2,21 @@
 learning angular via youtube
 
 
+## Setup
+### Install
+
+```
+npm install -g @angular/cli
+```
+
+### Create a new angular app
+
+```
+ng new <app name>
+
+e.g. 
+ng new angular-crash
+```
 
 ### Youtube Video Link
 
