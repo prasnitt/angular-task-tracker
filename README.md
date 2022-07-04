@@ -21,3 +21,6 @@ ng new angular-crash
 ### Youtube Video Link
 
 https://youtu.be/3dHNOWTI7H8
+
+### Github Repo:
+https://github.com/bradtraversy/angular-crash-2021
