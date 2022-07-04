@@ -18,6 +18,15 @@ e.g.
 ng new angular-crash
 ```
 
+### Create a new angular component
+
+```
+ng generate component <location>
+
+e.g. 
+ng generate component components/header
+```
+
 ### Youtube Video Link
 
 https://youtu.be/3dHNOWTI7H8
