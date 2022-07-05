@@ -13,4 +13,9 @@ export class TaskService {
   getTasks(): Observable<Task[]> {
     return this.client.get<Task[]>(this.apiUrl)
   }
+
+  deteteTask(task:Task): Observable<Task> {
+    const url: string = `${this.apiUrl}/${task.id}`;
+    return this.client.delete<Task>(url)
+  }
 }
