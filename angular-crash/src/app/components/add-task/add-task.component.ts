@@ -1,6 +1,6 @@
 import { Component, OnInit, Output, EventEmitter } from '@angular/core';
 import { Task } from '../../Task';
-import { AddTaskUiService } from '../../service/add-task-ui.service'
+import { AddTaskUiService } from '../../services/add-task-ui.service'
 import { Subscription } from 'rxjs';
 
 @Component({

@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { AddTaskUiService } from '../../service/add-task-ui.service'
+import { AddTaskUiService } from '../../services/add-task-ui.service'
 import { Subscription } from 'rxjs';
 import { Router } from '@angular/router';
 
