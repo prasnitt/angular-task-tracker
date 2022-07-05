@@ -42,6 +42,14 @@ e.g.
 ng generate service components/task
 ```
 
+### json-server for full fake REST API with zero coding
+https://www.npmjs.com/package/json-server
+
+```
+npm install json-server
+
+```
+
 ## Outside Packages
 * for icons: https://github.com/FortAwesome/angular-fontawesome 
 
