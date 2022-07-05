@@ -1,12 +1,10 @@
 # angular-task-tracker
 learning angular via youtube
 
-### Youtube Video Link
+### Reference
 
-https://youtu.be/3dHNOWTI7H8
-
-### Github Repo:
-https://github.com/bradtraversy/angular-crash-2021
+* Youtube Video Link https://youtu.be/3dHNOWTI7H8
+* Github Repo: https://github.com/bradtraversy/angular-crash-2021
 
 ## Setup
 ### Install
