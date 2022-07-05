@@ -18,7 +18,6 @@ export class ButtonComponent implements OnInit {
 
 
   onClick():void{
-    console.log("Button Pressed", this.text)
     this.btnClick.emit()
   }
 
