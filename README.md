@@ -51,3 +51,20 @@ npm install json-server
 ## Outside Packages
 * for icons: https://github.com/FortAwesome/angular-fontawesome 
 
+## Screenshots
+
+<table>
+<tr><th>Page Route</th><th>Screenshot</th></tr>
+<tr><td>Home</td>
+    <td>
+    <img src="media/root-page.png" alt="Route '/'" title="Home page">
+    </td>
+</tr>
+<tr><td>About</td>
+    <td>
+    <img src="media/about-page.png" alt="Route '/about'" title="About page">
+    </td>
+</tr>
+
+
+</table>
