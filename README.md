@@ -1,6 +1,12 @@
 # angular-task-tracker
 learning angular via youtube
 
+### Youtube Video Link
+
+https://youtu.be/3dHNOWTI7H8
+
+### Github Repo:
+https://github.com/bradtraversy/angular-crash-2021
 
 ## Setup
 ### Install
@@ -21,19 +27,29 @@ ng new angular-crash
 ### Create a new angular component
 
 ```
-ng generate component <location>
+ng generate component <component name>
 
 e.g. 
 ng generate component components/header
 ```
 
-# Outside Packages
+### Create a new angular service
+
+```
+ng generate service <service name>
+
+e.g. 
+ng generate service components/task
+```
+
+### json-server for full fake REST API with zero coding
+https://www.npmjs.com/package/json-server
+
+```
+npm install json-server
+
+```
+
+## Outside Packages
 * for icons: https://github.com/FortAwesome/angular-fontawesome 
 
-
-### Youtube Video Link
-
-https://youtu.be/3dHNOWTI7H8
-
-### Github Repo:
-https://github.com/bradtraversy/angular-crash-2021
